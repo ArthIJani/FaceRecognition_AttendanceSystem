@@ -1,0 +1,102 @@
+[
+    {
+        "20012531001": {
+            "name": "Arth Jani",
+            "class": "CE-AI",
+            "total_attendance": 0,
+            "year": 4,
+            "last_attendance_time": "2024-05-08 12:54:36",
+            "image": "20012531001.jpg"
+        }
+    },
+    {
+        "01": {
+            "name": "Tony Stark",
+            "class": "MCU",
+            "total_attendance": 0,
+            "year": 60,
+            "last_attendance_time": "2024-05-08 15:18:03",
+            "image": "01.jpg"
+        }
+    },
+    {
+        "02": {
+            "name": "Chris Evans",
+            "class": "MCU",
+            "total_attendance": 0,
+            "year": 40,
+            "last_attendance_time": "2024-05-08 15:21:18",
+            "image": "02.jpg"
+        }
+    },
+    {
+        "03": {
+            "name": "THor",
+            "class": "MCU",
+            "total_attendance": 0,
+            "year": 1500,
+            "last_attendance_time": "2024-05-08 15:22:26",
+            "image": "03.jpg"
+        }
+    },
+    {
+        "04": {
+            "name": "Hawkeye",
+            "class": "MCU",
+            "total_attendance": 0,
+            "year": 50,
+            "last_attendance_time": "2024-05-08 15:23:40",
+            "image": "04.jpg"
+        }
+    },
+    {
+        "05": {
+            "name": "Black Widow",
+            "class": "MCU",
+            "total_attendance": 0,
+            "year": 35,
+            "last_attendance_time": "2024-05-08 15:26:46",
+            "image": "05.jpg"
+        }
+    },
+    {
+        "06": {
+            "name": "Hulk",
+            "class": "MCU",
+            "total_attendance": 0,
+            "year": 100,
+            "last_attendance_time": "2024-05-08 15:28:40",
+            "image": "06.jpg"
+        }
+    },
+    {
+        "100001": {
+            "name": "Tom Cruise",
+            "class": "IMF",
+            "total_attendance": 0,
+            "year": 62,
+            "last_attendance_time": "2024-05-08 15:32:16",
+            "image": "100001.jpg"
+        }
+    },
+    {
+        "15012000": {
+            "name": "Astha Jani",
+            "class": "GreenValley",
+            "total_attendance": 0,
+            "year": 24,
+            "last_attendance_time": "2024-05-09 13:59:08",
+            "image": "15012000.jpeg"
+        }
+    },
+    {
+        "20012531003": {
+            "name": "Gayatri",
+            "class": "CE-AI",
+            "total_attendance": 0,
+            "year": "2024",
+            "last_attendance_time": "2024-05-11 12:04:07",
+            "image": "20012531003.jpg"
+        }
+    }
+]

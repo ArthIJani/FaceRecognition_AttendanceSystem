@@ -6,8 +6,8 @@ def initialize_app():
     # Initialize Firebase app (replace with your credentials)
     cred = firebase_admin.credentials.Certificate('serviceAccountKey.json')
     firebase_admin.initialize_app(cred, {
-        'databaseURL': 'https://facerecattenedancesystemfinal-default-rtdb.asia-southeast1.firebasedatabase.app/',
-        'storageBucket': 'facerecattenedancesystemfinal.appspot.com'
+        'databaseURL': 'FIREBASE_DATABASEURL',
+        'storageBucket': 'FIREBASE_STORAGEBUCKET'
     }, name='store_data')
 
 
